@@ -6,7 +6,7 @@ A sleek and responsive bus booking platform 🚌 built with React ⚛️, enrich
 
  
 ## 🚀 Live Demo  
-Check out the live demo: [Fresh Haven Landing Page] 🔗(https://fresh-haven-landing.vercel.app/)  
+Check out the live demo:  🔗(https://nandighoshlandingpage.netlify.app/)  
  (opens in a new tab).
 
 
