@@ -63,4 +63,25 @@ Check out the live demo: [Fresh Haven Landing Page] 🔗(https://fresh-haven-lan
 4. Access the app at `http://localhost:XXXX`
 
 
+---
+
+ ## 📌 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/haribabu-g/)  
+
+
+## Contributing 🤝
+
+Feel free to fork the repo, submit issues, or create pull requests if you'd like to contribute to the project!
+
+---
+
+<div align="center">
+✨If you like this repo, consider giving it a star! ⭐
+   <div align="center">
+      Made with ❤️ by @Haribabu-g
+   </div>
+</div>
+
+
 
