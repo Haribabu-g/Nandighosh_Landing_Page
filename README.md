@@ -1,16 +1,87 @@
-<<<<<<< HEAD
-# React + Vite
+# 🚌 Nandighosh Bus Landing Page 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+A sleek and responsive bus booking platform 🚌 built with React ⚛️, enriched with fluid Framer Motion animations 🎞️ and a clean, white-themed aesthetic 🌿 powered by Tailwind CSS. Explore a dynamic hero section ✨ that captures the spirit of travel, smooth scroll navigation 🧭, and an intuitive user experience 💼 designed for effortless route discovery and booking. Ride in style with Nandighosh — comfort, punctuality, and convenience all in one dashboard! 🕒📍
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+ 
+## 🚀 Live Demo  
+Check out the live demo: [Fresh Haven Landing Page] 🔗(https://fresh-haven-landing.vercel.app/)  
+ (opens in a new tab).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Nandighosh_Landing_Page
->>>>>>> 26b2b551643a83e47aa41934201808e266324781
+
+ ## ✨ Features
+
+- 🌍 Fully Responsive Design  
+- 🎞️ Smooth Animations with Framer Motion  
+- 🎨 Tailwind CSS for Styling  
+- 🚀 Fast Performance with Vite  
+- 🔗 Dynamic Hero Section & Navigation Bar
+
+
+## 🛠️ Tech Stack  
+
+- 🎨 **Frontend**: React, Tailwind CSS  
+- 🎬 **Animations**: Framer Motion  
+- 🏗️ **Build Tool**: Vite  
+- 🚀 **Deployment**: Vercel 
+
+  
+## 📁 Project Structure
+
+```bash
+├── public/
+│   └── vite.svg
+├── src/
+│   ├── components/         # Core UI components
+│   │   ├── Chooseus.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Header.jsx
+│   │   ├── MobileAppBanner.jsx
+│   │   ├── Navbar.jsx
+│   │   └── Routes.jsx
+│   ├── App.jsx             # Main app layout
+│   ├── index.css           # Tailwind CSS config + global styles
+│   └── main.jsx            # React entry point
+├── .gitignore              # Git ignored files
+├── eslint.config.js        # Linter configuration
+├── index.html              # HTML template
+├── package.json            # Project metadata and scripts
+├── package-lock.json       # Dependency lock file
+├── postcss.config.cjs      # PostCSS plugins (e.g., Tailwind)
+├── tailwind.config.js      # Tailwind theme and plugin config
+└── vite.config.js          # Vite dev/build configuration
+
+```
+ 
+## 💻 Usage
+
+1. Clone the repository
+2. Install dependencies
+3. Run the development server
+4. Access the app at `http://localhost:XXXX`
+
+
+---
+
+ ## 📌 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/haribabu-g/)  
+
+
+## Contributing 🤝
+
+Feel free to fork the repo, submit issues, or create pull requests if you'd like to contribute to the project!
+
+---
+
+<div align="center">
+✨If you like this repo, consider giving it a star! ⭐
+   <div align="center">
+      Made with ❤️ by @Haribabu-g
+   </div>
+</div>
+
+
+
