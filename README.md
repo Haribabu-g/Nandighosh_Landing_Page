@@ -1,16 +1,60 @@
-<<<<<<< HEAD
-# React + Vite
+# 🚌 Nandighosh Bus Landing Page 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+A sleek and responsive bus booking platform 🚌 built with React ⚛️, enriched with fluid Framer Motion animations 🎞️ and a clean, white-themed aesthetic 🌿 powered by Tailwind CSS. Explore a dynamic hero section ✨ that captures the spirit of travel, smooth scroll navigation 🧭, and an intuitive user experience 💼 designed for effortless route discovery and booking. Ride in style with Nandighosh — comfort, punctuality, and convenience all in one dashboard! 🕒📍
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+ 
+## 🚀 Live Demo  
+Check out the live demo: [Fresh Haven Landing Page] 🔗(https://fresh-haven-landing.vercel.app/)  
+ (opens in a new tab).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Nandighosh_Landing_Page
->>>>>>> 26b2b551643a83e47aa41934201808e266324781
+
+ ## ✨ Features
+
+- 🌍 Fully Responsive Design  
+- 🎞️ Smooth Animations with Framer Motion  
+- 🎨 Tailwind CSS for Styling  
+- 🚀 Fast Performance with Vite  
+- 🔗 Dynamic Hero Section & Navigation Bar
+
+
+## 🛠️ Tech Stack  
+
+- 🎨 **Frontend**: React, Tailwind CSS  
+- 🎬 **Animations**: Framer Motion  
+- 🏗️ **Build Tool**: Vite  
+- 🚀 **Deployment**: Vercel 
+
+  
+## 📁 Project Structure
+
+```bash
+├── public/
+│   ├── assets/             # Images, textures, models
+│   ├── models/             # 3D Astronaut model
+│   └── vite.svg
+├── src/
+│   ├── components/         # Reusable components
+│   ├── constants/          # Reusable datas
+│   ├── sections/           # Portfolio sections (Hero, About, etc.)
+│   ├── App.jsx             # Main app file
+│   ├── index.css           # Tailwind css
+│   └── main.jsx            # Entry point
+├── tailwind.config.js
+└── vite.config.js
+```
+
+---
+
+
+ 
+## 💻 Usage
+
+1. Clone the repository
+2. Install dependencies
+3. Run the development server
+4. Access the app at `http://localhost:5173`
+
+
+
