@@ -31,30 +31,36 @@ Check out the live demo: [Fresh Haven Landing Page] 🔗(https://fresh-haven-lan
 
 ```bash
 ├── public/
-│   ├── assets/             # Images, textures, models
-│   ├── models/             # 3D Astronaut model
 │   └── vite.svg
 ├── src/
-│   ├── components/         # Reusable components
-│   ├── constants/          # Reusable datas
-│   ├── sections/           # Portfolio sections (Hero, About, etc.)
-│   ├── App.jsx             # Main app file
-│   ├── index.css           # Tailwind css
-│   └── main.jsx            # Entry point
-├── tailwind.config.js
-└── vite.config.js
+│   ├── components/         # Core UI components
+│   │   ├── Chooseus.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Header.jsx
+│   │   ├── MobileAppBanner.jsx
+│   │   ├── Navbar.jsx
+│   │   └── Routes.jsx
+│   ├── App.jsx             # Main app layout
+│   ├── index.css           # Tailwind CSS config + global styles
+│   └── main.jsx            # React entry point
+├── .gitignore              # Git ignored files
+├── eslint.config.js        # Linter configuration
+├── index.html              # HTML template
+├── package.json            # Project metadata and scripts
+├── package-lock.json       # Dependency lock file
+├── postcss.config.cjs      # PostCSS plugins (e.g., Tailwind)
+├── tailwind.config.js      # Tailwind theme and plugin config
+└── vite.config.js          # Vite dev/build configuration
+
 ```
-
----
-
-
  
 ## 💻 Usage
 
 1. Clone the repository
 2. Install dependencies
 3. Run the development server
-4. Access the app at `http://localhost:5173`
+4. Access the app at `http://localhost:XXXX`
 
 
 
